@@ -45,5 +45,3 @@ for page in page_list:
   print(page)
   date = ocr_image(page)
   print(date)
-
-# Ne marche pas sur les PDF contenant plusieurs pages...
